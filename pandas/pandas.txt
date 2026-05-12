@@ -1,0 +1,19 @@
+pandas numpy ka us karta hai. numpy numerical karne ke fast hota hai.
+numpy vactorized hota hai ye c me likh hai
+data manipulation and data clenng karta hai.
+data cleaning-raw me missing value hatana ya duplicate value hatana
+data manipulation- grouping karna,column add karna,data merge karna ,filter karna
+data structure jaha data store hota hai.
+pandas do data structure ko follow karta hai
+1.series--single coumn,(1-d) hota hai just like list but diffrence is isme interger aur lableing dono indexing hoti hai.
+2.data frame---tabular from me data store karta hai. more than one column hote hai tb use karte hai.(2-d)hota hai.isme interger aur lableing dono indexing hoti hai.
+
+supports file operation just like json,csv,excel.
+(data frame me cnvert karke operation kar lenge)
+it supports data visualization matplotlib and seaborn libraries.
+
+
+SERIES:
+
+IT STORE INT,SRTIG,FLOAT,PYTHON OBJECT
+
